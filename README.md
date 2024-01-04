@@ -24,4 +24,5 @@
   <a href="https://www.instagram.com/enzofaria83/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/profiles/76561198818701986/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/12174854178" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/s1epy-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 </div>
