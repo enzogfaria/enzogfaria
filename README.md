@@ -3,7 +3,7 @@
 - 🎓 Cursando Engenharia de Software 2/4
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align='center' height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enzogfaria&theme=radical&show_icons=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enzogfaria&theme=radical&show_icons=true" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogfaria&theme=radical&layout=compact&)](https://github.com/anuraghazra/github-readme-stats" /> 
