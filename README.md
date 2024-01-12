@@ -26,7 +26,7 @@
   <a href="https://open.spotify.com/user/12174854178" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/s1epy-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 </div>
-
+<br><br>
 <details>
   <summary>💻 PC Config</summary>
   <br>
