@@ -7,9 +7,9 @@
 </a>
 
 <details>
-  <summary>💻 Config PC</summary>
+  <summary>💻 PC Config</summary>
 
-  <p align='center'>
+  <p align='left'>
   <br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
