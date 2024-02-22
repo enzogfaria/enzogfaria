@@ -1,5 +1,5 @@
 ## Oi!
-- 💻 Aprendendo a programar
+- 💻 Desenvolvedor Back-end Jr.
 - 🎓 Cursando Engenharia de Software 2/4
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
