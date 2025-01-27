@@ -1,6 +1,6 @@
 ## Oi!
 - 💻 Desenvolvedor Back-end Jr.
-- 🎓 Cursando Engenharia de Software 2/4
+- 🎓 Cursando Engenharia de Software 3/4
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enzogfaria&theme=radical&show_icons=true" />
