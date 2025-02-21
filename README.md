@@ -1,6 +1,6 @@
-## Oi!
-- 💻 Desenvolvedor Back-end Jr.
-- 🎓 Cursando Engenharia de Software 3/4
+## Hi!
+- 💻 Back-End Developer.
+- 🎓 Software Engineering 3/4
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enzogfaria&theme=radical&show_icons=true" />
@@ -9,7 +9,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogfaria&theme=radical&layout=compact&)](https://github.com/anuraghazra/github-readme-stats" /> 
 </a>-->
 <div style="display: inline_block"><br>
-<p><strong>🧰 Aprendendo</p>
+<p><strong>🧰 Learning</p>
   <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
