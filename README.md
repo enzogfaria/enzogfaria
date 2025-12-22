@@ -1,6 +1,6 @@
 ## Hi!
 - 💻 Back-End Developer.
-- 🎓 Software Engineering 3/4
+- 🎓 Software Engineering 4/4
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enzogfaria&theme=radical&show_icons=true" />
