@@ -7,10 +7,12 @@
 </a>-->
 <div style="display: inline_block"><br>
 <p><strong>🧰 Learning</p>
-  <img align="center" alt="Enzo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Enzo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vue-original.svg">
+  <img align="center" alt="Enzo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Enzo-vue" height="30" width="40" src="https://raw.githubusercontent.comevicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Enzo-tailwind" height="30" width="40" src="https://raw.githubusercontent.comevicons/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Enzo-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Enzo-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Enzo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Enzo-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Enzo-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="right" alt="Cute-dog" height="150" src="https://cdn.discordapp.com/attachments/1078829969347710976/1078830041103880352/giphy.gif">
 </div>
