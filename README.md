@@ -8,6 +8,7 @@
 <div style="display: inline_block"><br>
 <p><strong>🧰 Learning</p>
   <img align="center" alt="Enzo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Enzo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vue-original.svg">
   <img align="center" alt="Enzo-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Enzo-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Enzo-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
