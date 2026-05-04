@@ -7,7 +7,7 @@
 </a>-->
 <div style="display: inline_block"><br>
 <p><strong>🧰 Learning</p>
-    <img align="center" alt="Enzo-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/reactjs/reactjs-original.svg">
+    <img align="center" alt="Enzo-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
     <img align="center" alt="Enzo-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Enzo-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Enzo-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
