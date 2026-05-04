@@ -1,10 +1,6 @@
 ## Hi!
 - 💻 Back-End Developer.
 - 🎓 Software Engineering 4/4
-<br>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogfaria&theme=radical&layout=compact&)](https://github.com/anuraghazra/github-readme-stats" /> 
-</a>-->
 <div style="display: inline_block"><br>
 <p><strong>🧰 Learning</p>
     <img align="center" alt="Enzo-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
